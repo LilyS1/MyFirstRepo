@@ -1,6 +1,6 @@
 ### MAD LIBS ###
 ### Source: https://play.google.com/music/preview/Tuqtrmrs5caydjfwsbrmhvqirna?lyrics=1&utm_source=google&utm_medium=search&utm_campaign=lyrics&pcampaignid=kp-lyrics
-
+import time
 
 print ("Give me a noun")
 noun1 = input()
@@ -74,3 +74,6 @@ print ("Sometimes I'm gonna have to " + verb6)
 print ("Ain't about how " + adverb1 + " I get there")
 print ("Ain't about what's " + verb7 + " on the other " + noun8)
 print ("It's the " + noun9 + "!!!!")
+
+
+time.sleep (3000)
